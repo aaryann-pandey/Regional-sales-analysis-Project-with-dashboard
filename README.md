@@ -1,6 +1,5 @@
 # 🗺️ USA Regional Sales Analysis
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/EDA_Regional_Sales_Analysis?color=blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange)
@@ -13,14 +12,6 @@
 
 This project performs an **Exploratory Data Analysis (EDA)** on *Acme Co.’s 2014–2018 USA Sales dataset* to uncover revenue trends, profit drivers, and customer behavior across regions, channels, and product categories.  
 It uses *data cleaning, visualization, and statistical techniques* to generate actionable business insights.
-
----
-
-## 🖼️ Project Preview
-
-> *(Add your output or dashboard screenshots here!)*  
-> Example:  
-> ![Sales Dashboard](assets/sales_dashboard.png)
 
 ---
 
@@ -85,21 +76,3 @@ The following analyses were performed:
 - Established groundwork for **forecasting & sales optimization**  
 
 ---
-
-## 🚀 Next Steps
-
-- Automate monthly data imports and cleaning  
-- Build predictive models for **sales forecasting**  
-- Develop an interactive **Power BI / Tableau dashboard**  
-- Implement regional performance alerts  
-
----
-
-## 📂 Project Structure
-
-```bash
-├── EDA_Regional_Sales_Analysis_Final.ipynb   # Jupyter Notebook
-├── Regional Sales Summary.xlsx               # Dataset (multiple sheets)
-├── assets/
-│   └── sales_dashboard.png                   # Visualization previews (optional)
-└── README.md                                 # Project documentation
